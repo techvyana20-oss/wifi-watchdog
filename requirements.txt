@@ -1,0 +1,9 @@
+# WiFi Watchdog by Techvyana2.0
+#
+# Python packages (pip): NONE. The tool uses only the Python standard library.
+# Python version: 3.8 or newer
+#
+# Termux packages (install with: pkg install <name>):
+#   python       required
+#   inetutils    recommended (provides the ping command)
+#   termux-api   optional (phone notifications). Also install the Termux:API app.
